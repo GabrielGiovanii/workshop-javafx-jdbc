@@ -2,8 +2,7 @@
 
 ## Sobre o Projeto
 Este projeto faz parte do Curso "Java COMPLETO - Programação Orientada a Objetos + Projetos", ministrado pelo Professor Dr. Nelio Alves na plataforma Udemy. 
-O objetivo do projeto é introduzir os alunos ao desenvolvimento de aplicações JavaFX com JDBC. Ele permite que os alunos conheçam os fundamentos e a utilização 
-das ferramentas, para que possam, posteriormente, prosseguir estudando as especificidades de sua escolha de forma confortável.
+O objetivo do projeto é introduzir os alunos ao desenvolvimento de aplicações JavaFX com JDBC.
 
 ## Tecnologias Utilizadas
 - [JavaSE 17](https://docs.oracle.com/en/java)
